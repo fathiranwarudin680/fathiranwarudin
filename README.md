@@ -1,5 +1,34 @@
-## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fathiranwarudin680/fathiranwarudin/)
+## ```Deploy```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Self-bot-wa/)
+
+## `Run`
+
+```bash
+
+> npm start
+
+Terus scan...
+
+```
+
+## ```How to Deploy```
+
+[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
+
+----------
+
+<p align="center">
+
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://h.top4top.io/p_2090lg0k00.jpeg" />
+
+</p>
+
+## ```Coffee```
+
+- [`SAWERIA`](https://saweria.co/fathiranwarudin7)
+
+
 # ```SELF-BOT```
 
 <p align="center">
