@@ -1,11 +1,10 @@
 ## ```Deploy```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fathiranwarudin680/fathiranwarudin/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Self-bot-wa/)
 
 ## `Run`
 
 ```bash
-
 > npm start
 
 Terus scan...
@@ -103,5 +102,5 @@ Off in web nya
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/fathiranwarudin7)
 
